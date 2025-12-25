@@ -22,7 +22,7 @@
 ---
 
 ## 👤 Author
-**Gattu Ganesh**
+**Bandaru Balaji**
 
 ---
 
